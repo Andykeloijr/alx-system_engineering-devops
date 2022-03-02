@@ -1,2 +1,2 @@
-0 string School data
-!:mime ASCII text
+application/octet-stream
+!:mime -m school.mgc *
