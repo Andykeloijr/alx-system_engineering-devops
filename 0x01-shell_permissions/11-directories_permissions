@@ -1,3 +1,2 @@
 #!/bin/bash
-chmod ./11-directories_permissions 
-
+chmod -R a+X ./
