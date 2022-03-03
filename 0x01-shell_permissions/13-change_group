@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp 13-change_group
+chgrp my_dir hello
